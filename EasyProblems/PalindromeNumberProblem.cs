@@ -1,7 +1,7 @@
 namespace EasyProblems;
 
 //https://leetcode.com/problems/palindrome-number/description/
-public class PalindromeNumber
+public class PalindromeNumberProblem
 {
     public static bool IsPalindromeLoopOverString(int x)
     {

@@ -1,4 +1,3 @@
-﻿
-using EasyProblems;
+﻿using EasyProblems;
 
-PalindromeNumber.IsPalindromeReverseString(1221);
+Console.WriteLine("Hello World!");
