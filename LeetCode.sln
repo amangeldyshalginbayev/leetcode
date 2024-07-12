@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyProblems", "EasyProblem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyProblems3daysRecap", "EasyProblems3daysRecap\EasyProblems3daysRecap.csproj", "{B98658C6-5BE1-441C-8B5C-275E1B8B2003}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyProblems7daysRecap", "EasyProblems7daysRecap\EasyProblems7daysRecap.csproj", "{457F7ACD-1C1F-49E7-BC02-FD8C51D44576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B98658C6-5BE1-441C-8B5C-275E1B8B2003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B98658C6-5BE1-441C-8B5C-275E1B8B2003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B98658C6-5BE1-441C-8B5C-275E1B8B2003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457F7ACD-1C1F-49E7-BC02-FD8C51D44576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457F7ACD-1C1F-49E7-BC02-FD8C51D44576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457F7ACD-1C1F-49E7-BC02-FD8C51D44576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457F7ACD-1C1F-49E7-BC02-FD8C51D44576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
