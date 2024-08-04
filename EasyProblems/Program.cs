@@ -1,3 +1,3 @@
 ﻿using EasyProblems;
 
-Console.WriteLine("Hello Leetcode!");
+Console.WriteLine(new Problem69().MySqrt(1000000));
